@@ -43,8 +43,6 @@
 <p>这个<br>段落<br>演示了分行的效果</p>
 ```
 
-
-
 ## 链接
 
 ```html
@@ -72,7 +70,7 @@
 <p>这是一个段落</p>
 ```
 
-# 属性
+## 速查
 
-[HTML 标签列表(字母排序)](https://www.runoob.com/tags/html-reference.html)
+[HTML 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/html/html-tutorial.html)
 
